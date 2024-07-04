@@ -26,5 +26,6 @@ let grade
     grade = 'E'
  }
  console.log(grade)
+ alert(grade);
 }
 grader()
